@@ -51,4 +51,4 @@ defaults:
     values:
       layout: post
 
-#paginate_path: "/page:num/"
+paginate_path: "/page:num/"
