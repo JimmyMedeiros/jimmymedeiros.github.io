@@ -8,7 +8,7 @@
   {% endunless %}
 
   {% unless include.author.social.github %}
-    {% assign github_username = author.github.username | default: author.github | default:site.github.username | default:site.github | default:site.github_username %}
+    {% assign github_username = default:site.github_username %}
     {% if github_username %}
       {% include social-list-item.html platform="github" username=github_username %}
     {% endif %}
