@@ -17,7 +17,7 @@ title: Bule de Pixel
 # email: josivan.medeiros@live.com
 description: >- # this means to ignore newlines until "baseurl:"
   Existe um bule orbitando o sol em uma trajetória elíptica.
-  Mas ele ainda não foi renderizado.
+  Mas ele ainda não foi renderizado...
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
