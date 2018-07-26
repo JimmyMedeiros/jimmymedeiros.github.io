@@ -28,7 +28,7 @@ paginate: 3
 show_excerpts: true
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-paginate
